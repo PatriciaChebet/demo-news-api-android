@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#8A4B08</color>
+    <color name="colorPrimary">#dc7633</color>
+    <color name="colorAccent">#6E6E6E </color>
+    <color name="colorTrans">#08a1f8</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#90260f</color>
+    <color name="colorGrey">#848484</color>
+    <color name="gray_transparent">#1A1F1F21</color>
+    <color name="bar_color">#676767</color>
+    <color name="bar_color_transparent">#86676767</color>
+    <color name="bar_separator_color">#ebebeb</color>
+    <color name="white_transparent">#FFFFFFFF</color><!--  Used as background in some activities -->
+    <color name="green_transparent">#164e05</color>
+    <color name="gray">#1F1F21</color>
+    <color name="green">#50eab4 </color>
+    <color name="darkgreen"> #138d75  </color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>
